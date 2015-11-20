@@ -1,0 +1,10 @@
+build/
+captchabreaker/.ropeproject/
+captchabreaker.egg-info/
+dist/
+test/
+*.pyc
+*.swn
+*.swo
+*.swp
+.ropeproject
